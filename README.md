@@ -50,7 +50,7 @@ Check the installation :
 librarycheck
 ```
 
-<img src='asset/check_lib.png'>
+<img src='Asset/check_lib.png'>
 
 
 ## Start HammerDB
